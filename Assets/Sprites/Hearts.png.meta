@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: e80343a796ad8eb48b38229517085883
+timeCreated: 1466773766
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hearts_0
+    21300002: Hearts_1
+    21300004: Hearts_2
+    21300006: Hearts_3
+    21300008: Hearts_4
+    21300010: Hearts_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hearts_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 779
+        width: 711
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: -7}
+        - {x: -12.5, y: -66}
+        - {x: 6.5, y: -66}
+        - {x: 24.5, y: -50}
+        - {x: 82.5, y: -14}
+        - {x: 133.5, y: -66}
+        - {x: 162.5, y: -66}
+        - {x: 216.5, y: -12}
+        - {x: 268.5, y: -66}
+        - {x: 294.5, y: -66}
+        - {x: 355.5, y: -14}
+        - {x: 355.5, y: 44}
+        - {x: 347.5, y: 66}
+        - {x: -334.5, y: 66}
+        - {x: -355.5, y: 45}
+        - {x: -355.5, y: -1}
+        - {x: -308.5, y: -66}
+        - {x: -264.5, y: -66}
+        - {x: -240.5, y: -53}
+        - {x: -198.5, y: -32}
+        - {x: -153.5, y: -66}
+        - {x: -120.5, y: -66}
+    - name: Hearts_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 640
+        width: 717
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: -9}
+        - {x: -23.5, y: -52}
+        - {x: -9.5, y: -65}
+        - {x: 9.5, y: -65}
+        - {x: 15.5, y: -64}
+        - {x: 76.5, y: -6}
+        - {x: 127.5, y: -64}
+        - {x: 127.5, y: -65}
+        - {x: 175.5, y: -65}
+        - {x: 225.5, y: -29}
+        - {x: 268.5, y: -65}
+        - {x: 301.5, y: -65}
+        - {x: 357.5, y: -20}
+        - {x: 357.5, y: 47}
+        - {x: 349.5, y: 65}
+        - {x: -333.5, y: 65}
+        - {x: -355.5, y: 43}
+        - {x: -355.5, y: -1}
+        - {x: -295.5, y: -65}
+        - {x: -273.5, y: -65}
+        - {x: -268.5, y: -63}
+        - {x: -197.5, y: -34}
+        - {x: -152.5, y: -65}
+        - {x: -117.5, y: -65}
+    - name: Hearts_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 495
+        width: 713
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -152.5, y: -66}
+        - {x: -125.5, y: -66}
+        - {x: -66.5, y: -3}
+        - {x: -42.5, y: -32}
+        - {x: -12.5, y: -66}
+        - {x: 8.5, y: -66}
+        - {x: 18.5, y: -63}
+        - {x: 74.5, y: -3}
+        - {x: 116.5, y: -49}
+        - {x: 124.5, y: -66}
+        - {x: 150.5, y: -66}
+        - {x: 216.5, y: -26}
+        - {x: 271.5, y: -66}
+        - {x: 303.5, y: -66}
+        - {x: 355.5, y: -12}
+        - {x: 355.5, y: 45}
+        - {x: 348.5, y: 66}
+        - {x: -334.5, y: 66}
+        - {x: -344.5, y: 64}
+        - {x: -356.5, y: 50}
+        - {x: -356.5, y: -4}
+        - {x: -355.5, y: -8}
+        - {x: -291.5, y: -66}
+        - {x: -277.5, y: -66}
+        - {x: -271.5, y: -59}
+        - {x: -254.5, y: -42}
+        - {x: -199.5, y: -32}
+    - name: Hearts_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 351
+        width: 714
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: -63}
+        - {x: -69, y: -11}
+        - {x: -13, y: -66}
+        - {x: 3, y: -66}
+        - {x: 5, y: -65}
+        - {x: 23, y: -49}
+        - {x: 81, y: -13}
+        - {x: 133, y: -66}
+        - {x: 160, y: -66}
+        - {x: 223, y: -18}
+        - {x: 263, y: -61}
+        - {x: 276, y: -66}
+        - {x: 293, y: -66}
+        - {x: 355, y: -2}
+        - {x: 355, y: 41}
+        - {x: 353, y: 56}
+        - {x: 331, y: 68}
+        - {x: -341, y: 68}
+        - {x: -357, y: 48}
+        - {x: -357, y: -8}
+        - {x: -295, y: -66}
+        - {x: -266, y: -66}
+        - {x: -216, y: -3}
+        - {x: -155, y: -66}
+        - {x: -133, y: -66}
+      - - {x: -43, y: 35}
+        - {x: -40, y: 36}
+        - {x: -40, y: 39}
+        - {x: -43, y: 40}
+        - {x: -45, y: 38}
+    - name: Hearts_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 213
+        width: 720
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: -62}
+        - {x: -66, y: -5}
+        - {x: -42, y: -34}
+        - {x: -10, y: -66}
+        - {x: 13, y: -66}
+        - {x: 82, y: -15}
+        - {x: 123, y: -62}
+        - {x: 133, y: -66}
+        - {x: 156, y: -66}
+        - {x: 217, y: -7}
+        - {x: 271, y: -66}
+        - {x: 296, y: -66}
+        - {x: 356, y: 1}
+        - {x: 356, y: 57}
+        - {x: 334, y: 66}
+        - {x: -337, y: 66}
+        - {x: -346, y: 63}
+        - {x: -357, y: 55}
+        - {x: -357, y: -3}
+        - {x: -345, y: -38}
+        - {x: -291, y: -66}
+        - {x: -273, y: -66}
+        - {x: -215, y: -4}
+        - {x: -155, y: -66}
+        - {x: -135, y: -66}
+      - - {x: -195, y: 27}
+        - {x: -193, y: 25}
+        - {x: -190, y: 26}
+        - {x: -189, y: 32}
+        - {x: -192, y: 36}
+        - {x: -195, y: 35}
+      - - {x: 231, y: 34}
+        - {x: 231, y: 32}
+        - {x: 233, y: 30}
+        - {x: 234, y: 30}
+        - {x: 237, y: 33}
+        - {x: 236, y: 36}
+        - {x: 233, y: 36}
+    - name: Hearts_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 722
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: -66}
+        - {x: -68, y: -6}
+        - {x: -12, y: -66}
+        - {x: 8, y: -66}
+        - {x: 25, y: -50}
+        - {x: 83, y: -14}
+        - {x: 134, y: -66}
+        - {x: 163, y: -66}
+        - {x: 217, y: -12}
+        - {x: 269, y: -66}
+        - {x: 295, y: -66}
+        - {x: 357, y: -14}
+        - {x: 357, y: 41}
+        - {x: 348, y: 66}
+        - {x: -337, y: 66}
+        - {x: -356, y: 56}
+        - {x: -356, y: -2}
+        - {x: -297, y: -66}
+        - {x: -273, y: -66}
+        - {x: -214, y: 0}
+        - {x: -180, y: -46}
+        - {x: -149, y: -66}
+      - - {x: -192, y: 32}
+        - {x: -189, y: 33}
+        - {x: -189, y: 36}
+        - {x: -192, y: 37}
+        - {x: -194, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
